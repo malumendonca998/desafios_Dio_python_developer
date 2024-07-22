@@ -1,4 +1,3 @@
-
 C = int(input("insira um numero de testes:"))
 energias = []
 for i in range(C):
